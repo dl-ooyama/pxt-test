@@ -1,0 +1,17 @@
+{
+    "name": "test",
+    "version": "0.0.0",
+    "description": "pxt test",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false
+}
